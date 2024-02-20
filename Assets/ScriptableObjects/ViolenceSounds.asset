@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee60af8b6f4ce7a48b4706275fd707e6, type: 3}
+  m_Name: ViolenceSounds
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: fe044b329e143ec42b4719e271b264f5, type: 3}
+  - {fileID: 8300000, guid: 522834c690c531340b444d955af2fc38, type: 3}
+  - {fileID: 8300000, guid: 69a24dd67e784104db0a55968611f0a9, type: 3}
+  - {fileID: 8300000, guid: 5146f12c766a3964fa20c892c6889785, type: 3}
+  - {fileID: 8300000, guid: 46870171c9c8d0e4493047d1014690ad, type: 3}
+  triggerBeforeCollisionMultiplier: 0
+  audioDeadzone: 5
+  createAudioSource: 1

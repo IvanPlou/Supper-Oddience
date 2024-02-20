@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee60af8b6f4ce7a48b4706275fd707e6, type: 3}
+  m_Name: Weapon Sounds
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 976df15c37979ee49a4ae6e3e741aa31, type: 3}
+  - {fileID: 8300000, guid: 47402f1cfeb0f454a83e290263fb94fe, type: 3}
+  - {fileID: 8300000, guid: 39b27981da7b1574696c774768aacfe0, type: 3}
+  triggerBeforeCollisionMultiplier: 1
+  audioDeadzone: 5
+  createAudioSource: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee60af8b6f4ce7a48b4706275fd707e6, type: 3}
+  m_Name: Metal Sounds
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 1c1d61ef58a236d4c851ec84402d1bb2, type: 3}
+  - {fileID: 8300000, guid: d085014a9f72d6940b5f06be5d23cbb9, type: 3}
+  - {fileID: 8300000, guid: c573189458542c94eb342b0e2b4cfbb9, type: 3}
+  - {fileID: 8300000, guid: 4c4590d47650cc24092da46c20f38909, type: 3}
+  - {fileID: 8300000, guid: d1ebec7b0d2f06541bc632e474b9bc63, type: 3}
+  triggerBeforeCollisionMultiplier: 0
+  audioDeadzone: 5
+  createAudioSource: 1

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2613164296499520204
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 624570366353751740, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: taskId
+      value: Camera
+      objectReference: {fileID: 0}
+    - target: {fileID: 624570366353751740, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: taskText
+      value: Bring the spare camera to the set!
+      objectReference: {fileID: 0}
+    - target: {fileID: 624570366353751740, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: maxProgress
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.8646803
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.9738251
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.9738251
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.6800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000000059604645
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.830002
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 862907284916245666, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2218116531536208532, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: id
+      value: Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: whatIsDetect.m_Bits
+      value: 256
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 4218613010709954648}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 3236179814882106480}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ProgressTask
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: AssignTask
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: TaskFinisher, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: TaskAssigner, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4603096168183464344, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: OnPlayerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5436509130855110621, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+      propertyPath: m_Name
+      value: GunTaskVolume Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+--- !u!114 &3236179814882106480 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 624570366353751740, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+  m_PrefabInstance: {fileID: 2613164296499520204}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e5cac72c82149542b538750dd8780da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4218613010709954648 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2218116531536208532, guid: 2ccc59057af49944e8772a44c58f9679, type: 3}
+  m_PrefabInstance: {fileID: 2613164296499520204}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef256aa947c188a42b83ca0b0843d943, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
